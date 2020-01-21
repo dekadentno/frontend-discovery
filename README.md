@@ -67,3 +67,4 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * https://adele.uxpin.com/
 * https://free-for.dev/#/
 * https://cssgrid-generator.netlify.com/
+* https://caniuse.com/
