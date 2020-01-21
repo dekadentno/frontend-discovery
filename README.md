@@ -46,8 +46,17 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * Tricks with JavaScript Destructuring - https://alligator.io/js/tricks-with-destructuring/
 * Adding Vue.js to an Existing Project - https://medium.com/@bluntjackson/adding-vue-js-to-an-existing-project-ed2d040f870b
 * How To Do Data Binding in Pure JavaScript - https://www.wintellect.com/data-binding-pure-javascript/
-* - 
+* Executing arrays of async/await JavaScript functions in series vs. concurrently - https://www.coreycleary.me/executing-arrays-of-async-await-javascript-functions-in-series-vs-concurrently/
+* Write Your First Service Worker in 5 Minutes - https://davidwalsh.name/write-your-first-service-worker-in-5-minutes
+* Undefined: The Third Boolean Value - https://css-tricks.com/undefined-the-third-boolean-value/
+* WebAssembly at eBay: A Real-World Use Case - https://tech.ebayinc.com/engineering/webassembly-at-ebay-a-real-world-use-case/
+* Vue.js Pattern for Async Requests: Using Renderless Components - https://dev.to/codinglukas/vue-js-pattern-for-async-requests-using-renderless-components-3gd
+* Emoji-Log: A new way to write Git commit messages - https://opensource.com/article/19/2/emoji-log-git-commit-messages
+* 
 # Websites
 
 * https://www.30secondsofcode.org/
-* 
+* https://vanillajstoolkit.com/
+* https://jakearchibald.github.io/svgomg/
+* https://bundlephobia.com/
+* http://npm.anvaka.com/#/
