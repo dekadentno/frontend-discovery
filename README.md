@@ -1,5 +1,5 @@
-# js-discovery
-Collection of useful javascript / vue articles and tested libraries, packages and tools,
+# frontend-discovery
+Collection of useful javascript / css / vue articles and tested libraries, packages and tools.
 
 # Packages that can be found in (almost) any of my projects
 Names will be taken from my ```package.json``` files because I want to minimize the chance to mix up something and because there are similar packages with almost the same names. Also, obvious packages linters and template compilers won't be seen here.
@@ -52,7 +52,11 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * WebAssembly at eBay: A Real-World Use Case - https://tech.ebayinc.com/engineering/webassembly-at-ebay-a-real-world-use-case/
 * Vue.js Pattern for Async Requests: Using Renderless Components - https://dev.to/codinglukas/vue-js-pattern-for-async-requests-using-renderless-components-3gd
 * Emoji-Log: A new way to write Git commit messages - https://opensource.com/article/19/2/emoji-log-git-commit-messages
-* 
+* VueJs performance secrets - https://slides.com/akryum/vueconfus-2019#/10
+* Don't Use JavaScript Variables Without Knowing Temporal Dead Zone - https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/
+* Building Chrome Extensions with Vue.js - https://medium.com/@simoneldevig_80359/building-chrome-extensions-with-vue-js-cafaefb82bd4
+* Complete Guide to Responsive Images - https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7
+
 # Websites
 
 * https://www.30secondsofcode.org/
@@ -60,3 +64,5 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * https://jakearchibald.github.io/svgomg/
 * https://bundlephobia.com/
 * http://npm.anvaka.com/#/
+* https://adele.uxpin.com/
+* https://free-for.dev/#/
