@@ -26,7 +26,18 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * vue-content-loader
 * aos
 
-# Articles
+# Articles & Talks
 
 * Vue.js libraries - https://vuejsdevelopers.com/2017/04/22/vue-js-libraries-plugins/
 * Javascript variables and temporal dead zone - https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/
+* 7 Vue.js patterns - https://www.youtube.com/watch?v=7lpemgMhi0k
+* Vue.js design patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mediatorpatternjavascript
+* Handling Errors in Vue with Error Boundaries - https://medium.com/@dillonchanis/handling-errors-in-vue-with-error-boundaries-91f6ead0093b
+* Integrating Websockets into a Real-Time Vue App with Socket.io and Vuex - https://secdevops.ai/weekend-project-part-4-integrating-websockets-into-a-real-time-vue-app-with-socket-io-and-vuex-e358e04f477c
+* Flexbox fallbacks for popular UI solutions that use CSS Grid - https://www.gridtoflex.com/
+* Tips for integrating VueJS into a legacy site - https://midstride.com/tips-for-integrating-vuejs-to-legacy-site/
+
+# Websites
+
+* https://www.30secondsofcode.org/
+* 
