@@ -1,5 +1,5 @@
 # js-discovery
-Collection of useful (tested) javascript / vue libraries and articles
+Collection of useful javascript / vue articles and tested libraries, packages and tools,
 
 # Packages that can be found in (almost) any of my projects
 Names will be taken from my ```package.json``` files because I want to minimize the chance to mix up something and because there are similar packages with almost the same names. Also, obvious packages linters and template compilers won't be seen here.
@@ -36,7 +36,17 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * Integrating Websockets into a Real-Time Vue App with Socket.io and Vuex - https://secdevops.ai/weekend-project-part-4-integrating-websockets-into-a-real-time-vue-app-with-socket-io-and-vuex-e358e04f477c
 * Flexbox fallbacks for popular UI solutions that use CSS Grid - https://www.gridtoflex.com/
 * Tips for integrating VueJS into a legacy site - https://midstride.com/tips-for-integrating-vuejs-to-legacy-site/
-
+* Type Vue without TypeScript - https://blog.usejournal.com/type-vue-without-typescript-b2b49210f0b
+* Understanding Design Patterns in JavaScript - https://blog.bitsrc.io/understanding-design-patterns-in-javascript-13345223f2dd
+* Master Vue.js by mastering common problems - https://medium.com/@Roli_Dori/master-vue-js-by-mastering-common-problems-e2f1c2acd1e7
+* Fear, trust and JavaScript: When types and functional programming fail - https://www.reaktor.com/blog/fear-trust-and-javascript/
+* Vue API Calls In A Smart Way - https://blog.snap.hr/01/11/2018/vue-api-calls-smart-way/
+* Understanding Asynchronous JavaScript - https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff
+* Function Declarations vs. Function Expressions - https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/
+* Tricks with JavaScript Destructuring - https://alligator.io/js/tricks-with-destructuring/
+* Adding Vue.js to an Existing Project - https://medium.com/@bluntjackson/adding-vue-js-to-an-existing-project-ed2d040f870b
+* How To Do Data Binding in Pure JavaScript - https://www.wintellect.com/data-binding-pure-javascript/
+* - 
 # Websites
 
 * https://www.30secondsofcode.org/
