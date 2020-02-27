@@ -69,3 +69,4 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * https://cssgrid-generator.netlify.com/
 * https://caniuse.com/
 * https://colorhunt.co/
+* https://squoosh.app/
