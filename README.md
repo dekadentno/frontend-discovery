@@ -58,6 +58,7 @@ I am familiar with awesome collections of packages and libraries related to [Vue
 * Complete Guide to Responsive Images - https://medium.com/@elad/a-complete-guide-for-responsive-images-b13db359c6c7
 * https://www.matuzo.at/blog/why-543kb-keep-me-up-at-night/
 * How to include a library in a Vue.js project - https://vuejsdevelopers.com/2017/04/22/vue-js-libraries-plugins/
+* Adding SEO metadata with Nuxt - https://redfern.dev/articles/adding-social-media-seo-meta-data-using-nuxt-content/
 
 # Websites
 
